@@ -1,0 +1,14 @@
+*.o
+*.kld
+*.ko
+*.core
+
+module/export_syms
+module/machine
+module/x86
+
+test/.depend
+test/call
+test/call.debug
+test/call.full
+
